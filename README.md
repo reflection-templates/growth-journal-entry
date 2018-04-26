@@ -4,21 +4,29 @@ Growth Journal Entries should include:
 
 - Things I learned this week
 
-    * including mention of things that were new, interesting, surprising
-    * how it fits with what I already knew
-    * where/when is/could this be valuable?
+    * Including mention of things that were new, interesting, surprising
+    * How it fits with what I already knew
+    * Where/when is/could this be valuable?
 
-- Things I did (hands-on component)
+- Things I did (hands-on component -- Project-based courses)
 
-    * summary
-    * obstacles encountered (and maybe overcome?)
-    * assessment of progress against last week's plan
+    * Summary
+    * Obstacles encountered (and maybe overcome?)
+    * Assessment of progress against last week's plan
 
 - Contributions
 
-    * help to others
-    * contribution to community of learners
+    * Help to others
+    * Contribution to community of learners
 
-- Plan
+- Plan (Project-based courses)
 
-    plan for next week
+    Plan for next week
+    
+- Presentation Reflections (when appropriate)
+
+   * Presenter's name & presentation title/topic
+   * Three things you learned from this presentation
+   * Things that seemed confusing, incomplete, or piqued your interest
+   * Presentation strengths (strong content, clarity, visual presentation, timing, humor, etc)
+   * Constructive suggestions for the presenter (if any)
