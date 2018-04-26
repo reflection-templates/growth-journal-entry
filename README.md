@@ -21,7 +21,7 @@ Growth Journal Entries should include:
 
 - Plan (Project-based courses)
 
-    Plan for next week
+    * Plan for next week
     
 - Presentation Reflections (when appropriate)
 
